@@ -1,32 +1,40 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Welcome+to+my+profile+%7C+Bruno+Konig;Cybersecurity+Student;Bug+Bounty+%7C+Offensive+Security" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF0000&center=true&vCenter=true&width=750&lines=Welcome+to+my+profile+%7C+Bruno+Konig;Offensive+Security+Analyst+%26+Pentester;Bug+Bounty+%7C+Reconnaissance+%7C+Web+Security" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-* 🔐 Cybersecurity student focused on offensive security
-* 🧠 Studying Bug Bounty, Web Security and Reconnaissance
-* ⚙️ Passionate about automation and scripting
-* 🌐 Learning network analysis and real-world attack surfaces
-* 🚀 Continuously improving through labs and hands-on practice
+👋 Hi! I'm Bruno Konig, an Offensive Security Analyst and Pentester.
+
+🔐 Focused on:
+
+* Web Security
+* Bug Bounty
+* Reconnaissance
+* Network Analysis
+* Offensive Security Methodologies
+
+💻 I enjoy automating processes, studying real-world attack surfaces, and continuously improving through labs, documentation, and hands-on practice.
+
+🚀 My goal is to grow professionally in cybersecurity while helping build safer environments and stronger security practices.
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=BrunoKonig&show_icons=true&theme=transparent&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&border_color=FF0000&bg_color=00000000" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=BrunoKonig&show_icons=true&theme=transparent&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&border_color=FF0000&bg_color=00000000&count_private=true" />
 
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoKonig&layout=compact&title_color=FF0000&text_color=FFFFFF&border_color=FF0000&bg_color=00000000" />
+  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BrunoKonig&layout=compact&theme=dark" />
 </p>
 
 ---
 
 ## 🛠️ Tools & Technologies
 
-```bash
+```bash id="g8kz2m"
 Kali Linux • Burp Suite • Nmap • Wireshark
 Python • Bash • Linux • Networking
 OWASP Top 10 • Recon • Enumeration
