@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF0000&center=true&vCenter=true&width=750&lines=Welcome+to+my+profile+%7C+Bruno+Konig;Offensive+Security+Analyst+%26+Pentester;Bug+Bounty+%7C+Reconnaissance+%7C+Web+Security" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF0000&center=true&vCenter=true&width=750&lines=Welcome+to+my+profile+%7C+Bruno+Konig;Offensive+Security+Analyst+%26+Pentester;Bug+Bounty+%7C+Web+Security+%7C+Offensive+Security" />
 </p>
 
 ---
@@ -12,8 +12,6 @@
 
 * Web Security
 * Bug Bounty
-* Reconnaissance
-* Network Analysis
 * Offensive Security Methodologies
 
 💻 I enjoy automating processes, studying real-world attack surfaces, and continuously improving through labs, documentation, and hands-on practice.
@@ -36,7 +34,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
   <img src="https://img.shields.io/badge/Burp_Suite-FF7F2A?style=for-the-badge&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
@@ -53,4 +51,3 @@
     <img src="https://img.shields.io/badge/LinkedIn-BrunoKonig-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
-
