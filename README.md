@@ -25,10 +25,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=BrunoKonig&show_icons=true&theme=transparent&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&border_color=FF0000&bg_color=00000000&count_private=true" />
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=BrunoKonig&theme=highcontrast&ring=FF0000&fire=FF0000&currStreakLabel=FF0000" />
 
-  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BrunoKonig&layout=compact&theme=dark" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoKonig&layout=compact&theme=vision-friendly-dark" />
 </p>
+
 
 ---
 
