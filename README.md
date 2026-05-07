@@ -25,8 +25,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=BrunoKonig&theme=highcontrast&ring=FF0000&fire=FF0000&currStreakLabel=FF0000" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoKonig&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=10&exclude_repo=Brunokonig" />
+  <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BrunoKonig&theme=github_dark" />
+  <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BrunoKonig&theme=github_dark" />
 </p>
 
 ---
@@ -41,7 +41,7 @@
   <br />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Networking-000000?style=for-the-badge&logo=network-manager&logoColor=white" />
   <br />
   <img src="https://img.shields.io/badge/OWASP_Top_10-000000?style=for-the-badge&logo=owasp&logoColor=white" />
